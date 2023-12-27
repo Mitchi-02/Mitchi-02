@@ -87,7 +87,7 @@
 ## Github Stats
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mitchi-02&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
+  <img src="https://streak-stats.demolab.com?user=Mitchi-02&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="200" alt="streak graph"  />
   <br clear="both">
   <br clear="both">
   <img src="https://github-readme-stats.vercel.app/api?username=Mitchi-02&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&custom_title=My%20Github%20Stats" height="160" alt="stats graph"  />
