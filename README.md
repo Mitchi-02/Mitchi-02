@@ -6,11 +6,9 @@
 
 <br clear="both">
 
-<h2 align="center">Yo 👋 ! I am Ilyas</h2>
+<h2 align="center">Yo <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20"/> ! I am Ilyas</h2>
 
 ###
-
-<br clear="both">
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nextjs" height="35" alt="nextjs logo"  />
