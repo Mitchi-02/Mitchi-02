@@ -11,6 +11,7 @@
 ###
 
 # <div align="center">Full Stack Web Developer</div>
+<br clear="both">
 
 
 ## About
