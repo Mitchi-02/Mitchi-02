@@ -90,8 +90,8 @@
   <img src="https://streak-stats.demolab.com?user=Mitchi-02&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="200" alt="streak graph"  />
   <br clear="both">
   <br clear="both">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mitchi-02&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&custom_title=My%20Github%20Stats" height="160" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mitchi-02&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="160" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mitchi-02&hide_title=false&hide_rank=false&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&custom_title=My%20Github%20Stats" height="160" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mitchi-02&locale=en&hide_title=false&hide_border=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="160" alt="languages graph"  />
 </div>
 
 
