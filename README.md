@@ -97,7 +97,7 @@
   <br clear="both">
   <img alt="followers" src="https://img.shields.io/github/followers/Mitchi-02?label=Followers&style=social">
   <img width="20" />
-  ![profile views](https://visitor-badge.laobi.icu/badge?page_id=Mitchi-02.Mitchi-02)
+  [profile views](https://visitor-badge.laobi.icu/badge?page_id=Mitchi-02.Mitchi-02)
 </div>
 
 
