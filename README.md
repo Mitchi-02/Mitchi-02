@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="center">Full Stack Web Developer</h2>
+<p align="center">Full Stack Web Developer</p>
 
 ## About
 
