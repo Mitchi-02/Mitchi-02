@@ -94,7 +94,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mitchi-02&locale=en&hide_title=false&hide_border=true&layout=compact&card_width=320&langs_count=5&theme=dracula" height="160" alt="languages graph"  />
   <br clear="both">
   <br clear="both">
-  <img alt="followers" src="https://img.shields.io/github/followers/madushadhanushka?label=Followers&style=social">
+  <img alt="followers" src="https://img.shields.io/github/followers/Mitchi-02?label=Followers&style=social">
 </div>
 
 
