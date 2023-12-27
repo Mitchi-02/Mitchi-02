@@ -10,6 +10,21 @@
 
 ###
 
+<h2 align="center">I am a Full Stack Web Developer</h2>
+
+## About
+
+- 🌱 I’m currently a fourth year software engineering student.
+
+- 👯 I’m looking to collaborate on open source software projects.
+
+[//]: # - 👨‍💻 All of my projects are available at
+
+- 💬 Ask me about anything related to the web.
+
+- 📫 Reach me via i.benhammadi@esi-sba.dz.
+
+## Languages and Technologies I'm proficient at
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nextjs" height="35" alt="nextjs logo"  />
   <img width="20" />
@@ -49,14 +64,15 @@
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=gitlab" height="35" alt="gitlab logo"  />
   <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="35" alt="jira logo"  />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=postman" height="35" alt="postman logo"  />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=figma" height="35" alt="figma logo"  />
-  <img width="20" />
-  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="35" alt="jupyter logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="35" alt="jira logo"  />
-  <img width="20" />
+  </div>
+
+## Other Languages and Technologies I Used
+<div align="center">
   <img src="https://skillicons.dev/icons?i=flask" height="35" alt="flask logo"  />
   <img width="20" />
   <img src="https://cdn.simpleicons.org/spring/6DB33F" height="35" alt="spring logo"  />
@@ -64,9 +80,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="35" alt="vuejs logo"  />
   <img width="20" />
   <img src="https://cdn.simpleicons.org/jquery/0769AD" height="35" alt="jquery logo"  />
+  <img width="20" />
+  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="35" alt="jupyter logo"  />
 </div>
 
-###
+### My Github Stats
 
 <br clear="both">
 
