@@ -4,7 +4,7 @@
 
 <h2 align="center">Yo <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20"/> ! I am Ilyas, Full Stack Web Developer</h2>
 
-<br />
+<br clear="both"/>
 ## About
 
 - 🌱 I’m currently a fourth year software engineering student.
