@@ -69,7 +69,7 @@
 
 <br clear="both">
 
-## Other Languages and Technologies I Used
+## Other Technologies I Used
 <div align="center">
   <img src="https://skillicons.dev/icons?i=flask" height="35" alt="flask logo"  />
   <img width="20" />
