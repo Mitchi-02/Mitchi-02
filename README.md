@@ -98,9 +98,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Mitchi-02/Mitchi-02/output/snake.svg" alt="Snake animation" />
-
-###
