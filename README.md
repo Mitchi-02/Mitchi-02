@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="center">I am a Full Stack Web Developer</h2>
+<h2 align="center">Full Stack Web Developer</h2>
 
 ## About
 
