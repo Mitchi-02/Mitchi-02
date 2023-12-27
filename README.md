@@ -10,7 +10,8 @@
 
 ###
 
-## <div align="center">Full Stack Web Developer</div>
+# <div align="center">Full Stack Web Developer</div>
+
 
 ## About
 
@@ -23,6 +24,7 @@
 - 💬 Ask me about anything related to the web.
 
 - 📫 Reach me via i.benhammadi@esi-sba.dz.
+
 
 ## Languages and Technologies I'm proficient at
 <div align="center">
@@ -71,6 +73,7 @@
   <img src="https://skillicons.dev/icons?i=figma" height="35" alt="figma logo"  />
   </div>
 
+
 ## Other Languages and Technologies I Used
 <div align="center">
   <img src="https://skillicons.dev/icons?i=flask" height="35" alt="flask logo"  />
@@ -83,6 +86,7 @@
   <img width="20" />
   <img src="https://cdn.simpleicons.org/jupyter/F37626" height="35" alt="jupyter logo"  />
 </div>
+
 
 ### My Github Stats
 
