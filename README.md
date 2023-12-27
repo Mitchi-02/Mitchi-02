@@ -97,7 +97,7 @@
   <br clear="both">
   <img alt="followers" src="https://img.shields.io/github/followers/Mitchi-02?label=Followers&style=social">
   <img width="20" />
-  <img src="https://komarev.com/ghpvc/?username=Mitchi-02&color=purple" alt="watching_count" />
+  <img src="https://komarev.com/ghpvc/?username=Mitchi-02&color=blue" alt="watching_count" />
 </div>
 
 
