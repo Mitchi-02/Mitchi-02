@@ -88,7 +88,7 @@
 </div>
 
 
-### My Github Stats
+## My Github Stats
 
 <br clear="both">
 
