@@ -21,7 +21,7 @@
 <br clear="both">
 
 ## Languages and Technologies I'm proficient at
-<div align="center" style="margin-bottom: 20px;">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=nextjs" height="35" alt="nextjs logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo"  />
