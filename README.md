@@ -18,6 +18,7 @@
 
 - 📫 Reach me via [i.benhammadi@esi-sba.dz](mailto:i.benhammadi@esi-sba.dz).
 
+<br clear="both">
 
 ## Languages and Technologies I'm proficient at
 <div align="center">
@@ -66,6 +67,7 @@
   <img src="https://skillicons.dev/icons?i=figma" height="35" alt="figma logo"  />
   </div>
 
+<br clear="both">
 
 ## Other Languages and Technologies I Used
 <div align="center">
@@ -80,10 +82,9 @@
   <img src="https://cdn.simpleicons.org/jupyter/F37626" height="35" alt="jupyter logo"  />
 </div>
 
+<br clear="both">
 
 ## My Github Stats
-
-<br clear="both">
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ilyas-benhammadi/" target="_blank">
