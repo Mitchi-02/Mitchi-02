@@ -2,7 +2,7 @@
   <img height="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
 </div>
 
-<h1 align="center">Yo <img src="https://tenor.com/view/waving-hand-joypixels-hi-hello-hey-there-gif-17554626" width="20"/> ! I am Ilyas, Full Stack Web Developer</h2>
+<h1 align="center">Yo <img src="https://tenor.com/view/gif-de-saudação-gif-27159161" width="20"/> ! I am Ilyas, Full Stack Web Developer</h2>
 
 <br clear="both">
 
