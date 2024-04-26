@@ -36,6 +36,10 @@
   <img width="20" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="35" alt="tailwindcss logo"  />
   <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java logo"  />
+  <img width="20" />
+  <img src="https://cdn.simpleicons.org/spring/6DB33F" height="35" alt="spring logo"  />
+  <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="nodejs logo"  />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=express" height="35" alt="express logo"  />
@@ -49,8 +53,6 @@
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="35" alt="mysql logo"  />
   <img width="20" />
   <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="35" alt="firebase logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
   <img width="20" />
@@ -72,8 +74,6 @@
 ## Other Technologies I Used
 <div align="center">
   <img src="https://skillicons.dev/icons?i=flask" height="35" alt="flask logo"  />
-  <img width="20" />
-  <img src="https://cdn.simpleicons.org/spring/6DB33F" height="35" alt="spring logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="35" alt="vuejs logo"  />
   <img width="20" />
