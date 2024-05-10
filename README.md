@@ -38,7 +38,7 @@
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java logo"  />
   <img width="20" />
-  <img src="https://cdn.simpleicons.org/spring/6DB33F" height="35" alt="nestjs logo"  />
+  <img src="https://cdn.simpleicons.org/nestjs/E0234E" height="35" alt="nestjs logo"  />
   <img width="20" />
   <img src="https://cdn.simpleicons.org/spring/6DB33F" height="35" alt="spring logo"  />
   <img width="20" />
