@@ -50,6 +50,8 @@
   <img width="20" />
   <img src="https://cdn.simpleicons.org/php/777BB4" height="35" alt="php logo"  />
   <img width="20" />
+  <img src="https://skillicons.dev/icons?i=kafka" height="35" alt="kafka logo"  />
+  <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" alt="mongodb logo"  />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=postgres" height="35" alt="postgres logo"  />
