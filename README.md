@@ -50,15 +50,11 @@
   <img width="20" />
   <img src="https://cdn.simpleicons.org/php/777BB4" height="35" alt="php logo"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=kafka" height="35" alt="kafka logo"  />
-  <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" alt="mongodb logo"  />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=postgres" height="35" alt="postgres logo"  />
   <img width="20" />
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="35" alt="mysql logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=redis" height="35" alt="redis logo"  />
   <img width="20" />
   <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="35" alt="firebase logo"  />
   <img width="20" />
@@ -81,6 +77,10 @@
 
 ## Other Technologies I Used
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=kafka" height="35" alt="kafka logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=redis" height="35" alt="redis logo"  />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=flask" height="35" alt="flask logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="35" alt="vuejs logo"  />
