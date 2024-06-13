@@ -58,6 +58,8 @@
   <img width="20" />
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="35" alt="mysql logo"  />
   <img width="20" />
+  <img src="https://skillicons.dev/icons?i=redis" height="35" alt="redis logo"  />
+  <img width="20" />
   <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="35" alt="firebase logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
