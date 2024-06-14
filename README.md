@@ -81,6 +81,8 @@
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="35" alt="vuejs logo"  />
   <img width="20" />
+  <img src="https://cdn.simpleicons.org/nginx/009639" height="35" alt="nginx logo"  />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=flask" height="35" alt="flask logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="35" alt="vuejs logo"  />
