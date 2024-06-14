@@ -79,7 +79,7 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=kafka" height="35" alt="kafka logo"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=redis" height="35" alt="redis logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="35" alt="vuejs logo"  />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=flask" height="35" alt="flask logo"  />
   <img width="20" />
