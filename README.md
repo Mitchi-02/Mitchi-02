@@ -2,13 +2,13 @@
   <img height="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
 </div>
 
-<h1 align="center">Yo <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20"/> ! I am Ilyas, Full Stack Web Developer</h2>
+<h1 align="center">Yo <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20"/> ! I am Ilyas, Software Developer</h2>
 
 <br clear="both">
 
 ## About
 
-- 🌱 I’m currently a fourth year software engineering student.
+- 🌱 I’m currently a final year software engineering student, looking for a PFE internship.
 
 - 👯 I’m looking to collaborate on open source software projects.
 
@@ -16,7 +16,7 @@
 
 - 💬 Ask me about anything related to the web.
 
-- 📫 Reach me via [contact@ilyas-benhammadi.com](mailto:contact@ilyas-benhammadi.com).
+- 📫 Reach me via [i.benhammadi@esi-sba.dz](mailto:i.benhammadi@esi-sba.dz).
 
 <br clear="both">
 
@@ -35,6 +35,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo"  />
   <img width="20" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="35" alt="tailwindcss logo"  />
+  <img width="20" />
+  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="35" alt="bootstrap logo"  />
+  <img width="20" />
+  <img src="https://cdn.simpleicons.org/sass/CC6699" height="35" alt="sass logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=redux" height="35" alt="redux logo"  />
+  <img width="20" />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java logo"  />
   <img width="20" />
@@ -77,6 +84,8 @@
 
 ## Other Technologies I Used
 <div align="center">
+  <img src="https://cdn.simpleicons.org/expo/white" height="35" alt="expo logo"  />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=kafka" height="35" alt="kafka logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="35" alt="vuejs logo"  />
