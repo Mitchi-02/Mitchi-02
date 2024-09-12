@@ -10,12 +10,6 @@
 
 - 🌱 I’m currently a final year software engineering student, looking for a PFE internship.
 
-- 👯 I’m looking to collaborate on open source software projects.
-
-<!---- 👨‍💻 All of my projects are available at -->
-
-- 💬 Ask me about anything related to the web.
-
 - 📫 Reach me via [i.benhammadi@esi-sba.dz](mailto:i.benhammadi@esi-sba.dz).
 
 <br clear="both">
