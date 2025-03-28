@@ -8,7 +8,7 @@
 
 ## About
 
-- 🌱 I’m currently a final year software engineering student, looking for a PFE internship.
+- 🌱 I’m currently a final year software engineering student, looking for a CDI contract in the EMEA region or an alternation in France starting from September 2025.
 
 - 📫 Reach me via [i.benhammadi@esi-sba.dz](mailto:i.benhammadi@esi-sba.dz).
 
