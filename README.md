@@ -10,6 +10,8 @@
 
 - 🌱 I’m currently a final year software engineering student, seeking a permanent position starting September 2025.
 
+- 📄 You can view my resume [here](https://www.ilyas-benhammadi.com/resume.pdf).
+- 
 - 📫 Reach me via [contact@ilyas-benhammadi.com](mailto:contact@ilyas-benhammadi.com).
 
 <br clear="both">
