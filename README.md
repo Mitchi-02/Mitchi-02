@@ -58,6 +58,10 @@
   <img width="20" />
   <img src="https://cdn.simpleicons.org/php/777BB4" height="35" alt="php logo"  />
   <img width="20" />
+  <img src="https://skillicons.dev/icons?i=bash" height="35" alt="bash logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=linux" height="35" alt="linux logo"  />
+  <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" alt="mongodb logo"  />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=postgres" height="35" alt="postgres logo"  />
@@ -79,7 +83,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" height="35" alt="confluence logo"  />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=figma" height="35" alt="figma logo"  />
-  </div>
+  <img width="20" />
+  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="35" alt="jupyter logo"  />
+</div>
 
 <br clear="both">
 
@@ -87,19 +93,27 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=kafka" height="35" alt="kafka logo"  />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="35" alt="vuejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="35" alt="sql server logo"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="35" alt="vuejs logo"  />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="35" alt="sqlite logo"  />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="35" alt="vuejs logo"  />
+  <img src="https://skillicons.dev/icons?i=cassandra" height="35" alt="cassandra logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="35" alt="oracle logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="35" alt="redis logo"  />
+  <img width="20" />
+  <img src="https://cdn.simpleicons.org/neo4j/4581C3" height="35" alt="neo4j logo"  />
+  <img width="20" />
+  <img src="https://cdn.worldvectorlogo.com/logos/traefik-1.svg" height="35" alt="traefik logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="35" alt="kubernetes logo"  />
   <img width="20" />
   <img src="https://cdn.simpleicons.org/nginx/009639" height="35" alt="nginx logo"  />
   <img width="20" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="35" alt="google cloud logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="35" alt="google cloud logo"  />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=flask" height="35" alt="flask logo"  />
-  <img width="20" />
-  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="35" alt="jupyter logo"  />
 </div>
 
 <br clear="both">
