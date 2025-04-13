@@ -44,7 +44,6 @@
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=redux" height="35" alt="redux logo"  />
   <img width="20" />
-  <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java logo"  />
   <img width="20" />
   <img src="https://cdn.simpleicons.org/nestjs/E0234E" height="35" alt="nestjs logo"  />
@@ -89,6 +88,8 @@
   <img src="https://skillicons.dev/icons?i=kafka" height="35" alt="kafka logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="35" alt="vuejs logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="35" alt="vuejs logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="35" alt="vuejs logo"  />
   <img width="20" />
