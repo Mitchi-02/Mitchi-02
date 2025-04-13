@@ -8,7 +8,7 @@
 
 ## About
 
-- 🌱 I’m currently a final year software engineering student, looking for a CDI contract in the EMEA region or an alternation in France starting from September 2025.
+- 🌱 I’m currently a final year software engineering student, seeking a permanent position starting September 2025.
 
 - 📫 Reach me via [contact@ilyas-benhammadi.com](mailto:contact@ilyas-benhammadi.com).
 
