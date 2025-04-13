@@ -20,6 +20,14 @@
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo"  />
   <img width="20" />
+  <img src="https://cdn.simpleicons.org/expo/white" height="35" alt="expo logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="35" alt="vuejs logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=angular" height="35" alt="angular logo"  />
+  <img width="20" />
+  <img src="https://cdn.simpleicons.org/jquery/0769AD" height="35" alt="jquery logo"  />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=ts" height="35" alt="typescript logo"  />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=js" height="35" alt="javascript logo"  />
@@ -69,7 +77,7 @@
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="35" alt="jira logo"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=postman" height="35" alt="postman logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" height="35" alt="confluence logo"  />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=figma" height="35" alt="figma logo"  />
   </div>
@@ -78,9 +86,9 @@
 
 ## Other Technologies I Used
 <div align="center">
-  <img src="https://cdn.simpleicons.org/expo/white" height="35" alt="expo logo"  />
-  <img width="20" />
   <img src="https://skillicons.dev/icons?i=kafka" height="35" alt="kafka logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="35" alt="vuejs logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="35" alt="vuejs logo"  />
   <img width="20" />
@@ -89,10 +97,6 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="35" alt="google cloud logo"  />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=flask" height="35" alt="flask logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="35" alt="vuejs logo"  />
-  <img width="20" />
-  <img src="https://cdn.simpleicons.org/jquery/0769AD" height="35" alt="jquery logo"  />
   <img width="20" />
   <img src="https://cdn.simpleicons.org/jupyter/F37626" height="35" alt="jupyter logo"  />
 </div>
