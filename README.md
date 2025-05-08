@@ -8,7 +8,7 @@
 
 ## About
 
-- 🌱 I’m currently a final year software engineering student, seeking a permanent position starting September 2025.
+- 🌱 I’m currently a final year software engineering student, seeking a permanent / apprenticeship position starting September 2025.
 
 - 📄 You can view my resume [here](https://www.ilyas-benhammadi.com/resume.pdf).
   
