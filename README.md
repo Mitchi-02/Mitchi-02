@@ -8,7 +8,7 @@
 
 ## About
 
-- 🌱 I’m currently a final year software engineering student, seeking a permanent / apprenticeship position starting September 2025.
+- 🌱 I’m currently a final year software engineering student, seeking a permanent / apprenticeship position. Available immediately.
 
 - 📄 You can view my resume [here](https://www.ilyas-benhammadi.com/resume.pdf).
   
@@ -45,6 +45,8 @@
   <img src="https://cdn.simpleicons.org/sass/CC6699" height="35" alt="sass logo"  />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=redux" height="35" alt="redux logo"  />
+  <img width="20" />
+  <img src="https://cdn.simpleicons.org/go/00ADD8" height="35" alt="go logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java logo"  />
   <img width="20" />
