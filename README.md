@@ -109,10 +109,6 @@
   <img width="20" />
   <img src="https://cdn.simpleicons.org/neo4j/4581C3" height="35" alt="neo4j logo"  />
   <img width="20" />
-  <img src="https://logo.svgcdn.com/devicon/elasticsearch-original-wordmark.png" height="70" alt="elasticsearch logo"  />
-  <img width="20" />
-  <img src="https://github.com/jaegertracing/artwork/raw/master/PNG/Jaeger_Logo_Final_PANTONE.png" height="50" alt="jaeger logo"  />
-  <img width="20" />
   <img src="https://cdn.worldvectorlogo.com/logos/traefik-1.svg" height="35" alt="traefik logo"  />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=kubernetes" height="35" alt="kubernetes logo"  />
