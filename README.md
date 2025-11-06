@@ -8,7 +8,7 @@
 
 ## About
 
-- 🌱 I’m currently a final year software engineering student, seeking a permanent / apprenticeship position. Available immediately.
+- 🌱 I’m currently a final year software engineering student, open to remote/freelance positions.
 
 - 📄 You can view my resume [here](https://www.ilyas-benhammadi.com/resume.pdf).
   
